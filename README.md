@@ -1,10 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center; position: relative">
-  <h1>Hi 👋 My name is Engel Reyes.</h1>
-  <div style="position: absolute: right: 0; top: 0">
-    <p align="center">Visitor counter</p>
-      <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
-  </div>
+<div align="right">
+  <b>Visitor counter</b>
+  <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
 </div>
+
+# Hi 👋 My name is Engel Reyes.
 
 ## In constant learning.
 
@@ -35,15 +34,10 @@ I am currently in my last year of computer engineering.
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; align-items: center;  gap: .5rem; justify-content: space-evenly">
-  <div style="display: flex; flex-direction: column; gap: .5rem; margin-bottom: .5rem">
+<div align="center"><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" /></a></div>
 
-  <div align="left"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="EngelReyes23's GitHub stats" /></a></div>
+<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark" alt="EngelReyes23's GitHub stats" /></a></div>
 
-  <div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue&hide_border=true" /></a></div>
-  </div>
-  
-  <div align="right" style="height: 100%"><a href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" /></a></div>
-</div>
+<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue" /></a></div>
 
-<a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a>
+<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a></div>
