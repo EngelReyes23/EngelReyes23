@@ -1,17 +1,17 @@
-# Hi 👋 My name is Engel Reyes.
+# **Hi 👋 My name is Engel Reyes.**
 
-## In constant learning.
+## **In constant learning.**
 
 I am currently in my last year of computer engineering.
 
-- 🧠  I'm learning Typescript and reinforcing my knowledge of React and its associated technologies in its stack.
+- 🧠  I'm learning **Typescript** and reinforcing my knowledge of **React** and its associated technologies in its stack.
 
 <div align="center">
   <br/><p>Visitor counter</p>
   <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
 </div>
 
-### Skills
+### **Skills**
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -26,18 +26,18 @@ I am currently in my last year of computer engineering.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### Socials
+### **Socials**
 
-<p align="left"> <a href="https://www.facebook.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EngelReyes23_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EngelReyes23_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### **Badges**
 
 <b>My GitHub Stats</b>
 
-<div><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" /></a></div>
+<div><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" /></a></div>
 
-<div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark" alt="EngelReyes23's GitHub stats" /></a></div>
+<div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="EngelReyes23's GitHub stats" /></a></div>
 
-<div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue" /></a></div>
+<div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue&hide_border=true" /></a></div>
 
-<div><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a></div>
+<div><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark&hide_border=true" alt="GitHub Commits Graph" /></a></div>
