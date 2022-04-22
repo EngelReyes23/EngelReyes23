@@ -1,8 +1,3 @@
-<div align="right">
-  <b>Visitor counter</b>
-  <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
-</div>
-
 # Hi 👋 My name is Engel Reyes.
 
 ## In constant learning.
@@ -10,6 +5,11 @@
 I am currently in my last year of computer engineering.
 
 - 🧠  I'm learning Typescript and reinforcing my knowledge of React and its associated technologies in its stack.
+
+<div align="center">
+  <br/><p>Visitor counter</p>
+  <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
+</div>
 
 ### Skills
 
@@ -34,10 +34,10 @@ I am currently in my last year of computer engineering.
 
 <b>My GitHub Stats</b>
 
-<div align="center"><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" /></a></div>
+<div><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" /></a></div>
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark" alt="EngelReyes23's GitHub stats" /></a></div>
+<div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark" alt="EngelReyes23's GitHub stats" /></a></div>
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue" /></a></div>
+<div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue" /></a></div>
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a></div>
+<div><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a></div>
