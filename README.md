@@ -1,4 +1,10 @@
-# Hi 👋 My name is Engel Reyes.
+<div style="display: flex; justify-content: space-between; align-items: center; position: relative">
+  <h1>Hi 👋 My name is Engel Reyes.</h1>
+  <div style="position: absolute: right: 0; top: 0">
+    <p align="center">Visitor counter</p>
+      <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
+  </div>
+</div>
 
 ## In constant learning.
 
@@ -29,10 +35,15 @@ I am currently in my last year of computer engineering.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EngelReyes23's GitHub stats" /></a>
+<div style="display: flex; align-items: center;  gap: .5rem; justify-content: space-evenly">
+  <div style="display: flex; flex-direction: column; gap: .5rem; margin-bottom: .5rem">
 
-<a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <div align="left"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="EngelReyes23's GitHub stats" /></a></div>
 
-<a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <div><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue&hide_border=true" /></a></div>
+  </div>
+  
+  <div align="right" style="height: 100%"><a href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" /></a></div>
+</div>
 
-<a href="https://github.com/EngelReyes23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a>
