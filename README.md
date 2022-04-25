@@ -7,11 +7,11 @@ I am currently in my last year of computer engineering.
 - 🧠  I'm learning **Typescript** and reinforcing my knowledge of **React** and its associated technologies in its stack.
 
 <!-- 
- -->
 <div align="center">
   <br/><p>Visitor counter</p>
   <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
 </div>
+ -->
 
 <br/>
 <br/>
@@ -41,13 +41,13 @@ I am currently in my last year of computer engineering.
 <br/>
 <h3 align="center"><b>My GitHub Stats</b></h3>
 
-<div align="center"><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" /></a></div>
+<div align="center"><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" /></a></div>
 <br/>
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="EngelReyes23's GitHub stats" /></a></div>
+<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark" alt="EngelReyes23's GitHub stats" /></a></div>
 <br/>
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue&hide_border=true" /></a></div>
+<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue" /></a></div>
 <br/>
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark&hide_border=true" alt="GitHub Commits Graph" /></a></div>
+<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a></div>
