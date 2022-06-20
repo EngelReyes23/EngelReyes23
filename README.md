@@ -6,15 +6,15 @@ I am currently in my last year of computer engineering.
 
 - 🧠  I'm learning **Typescript** and reinforcing my knowledge of **React** and its associated technologies in its stack.
 
-<!-- 
- -->
+<!--
 <div align="center">
   <br/><p>Visitor counter</p>
   <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
 </div>
+-->
 
-<br/>
-<br/>
+<br/> 
+<br/> 
 <h3 align="center"><b>Skills</b></h3>
 
 <div align="center" >
