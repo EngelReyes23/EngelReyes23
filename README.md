@@ -1,53 +1,58 @@
-# **Hi 👋 My name is Engel Reyes.**
+# Engel Reyes
 
-## **In constant learning.**
+**Microsoft 365 Technical Support Engineer** specializing in **SharePoint Online** and **OneDrive for Business**, with a background in software development and computer engineering.
 
-I am currently in my last year of computer engineering.
+I work on Microsoft 365 support scenarios for enterprise administrators across LATAM through a Microsoft support partner. My current focus is SharePoint Online and OneDrive for Business, including troubleshooting, administration, remediation, permissions, versioning, retention-related scenarios, and tenant-level investigation.
 
-- 🧠  I'm learning **Typescript** and reinforcing my knowledge of **React** and its associated technologies in its stack.
+My previous Microsoft 365 experience also includes **Exchange Online, Microsoft Purview, Microsoft Defender, Outlook, Planner, and Viva Engage**.
 
-<!--
-<div align="center">
-  <br/><p>Visitor counter</p>
-  <div><img src="https://profile-counter.glitch.me/engelreyes23/count.svg" /></div>
-</div>
--->
+I use my development background to build practical administration and troubleshooting tools with **PowerShell, PnP.PowerShell, JavaScript, Node.js, and React**.
 
-<br/> 
-<br/> 
-<h3 align="center"><b>Skills</b></h3>
+## Current Focus
 
-<div align="center" >
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</div>
+- SharePoint Online administration and troubleshooting
+- OneDrive for Business administration and troubleshooting
+- Microsoft 365 automation with PowerShell and PnP.PowerShell
+- Safe remediation workflows, reporting, validation, and auditability
+- Building reusable tools for recurring administrative scenarios
 
-<br/>
-<br/>
-<h3 align="center"><b>Socials</b></h3>
-<div align="center">
- <a href="https://www.facebook.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.github.com/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/EngelReyes23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EngelReyes23_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
- </div>
+## Featured Projects
 
-<br/>
-<br/>
-<h3 align="center"><b>My GitHub Stats</b></h3>
+### [m365-admin-scripts](https://github.com/EngelReyes23/m365-admin-scripts)
 
-<div align="center"><a  href="https://github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelReyes23&&layout=compact&langs_count=10&theme=github_dark" alt="Top Languages" /></a></div>
-<br/>
+Current Microsoft 365 administration and troubleshooting toolkit focused on SharePoint Online and OneDrive for Business. It includes version-history cleanup, legacy user remediation, permission-scope analysis, recycle-bin and Preservation Hold Library workflows, and OneDrive/SharePoint path analysis.
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-stats.vercel.app/api?username=EngelReyes23&show_icons=true&count_private=true&theme=github_dark" alt="EngelReyes23's GitHub stats" /></a></div>
-<br/>
+### [PokeReact](https://github.com/EngelReyes23/PokeReact)
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EngelReyes23&theme=github-dark-blue" /></a></div>
-<br/>
+A React-based Pokédex project originally created during my frontend-development phase and substantially modernized in 2026. It now includes bilingual EN/ES support, responsive mobile behavior, richer Pokémon detail views, Redux Toolkit, React Router, Vite, Tailwind CSS, and Framer Motion.
 
-<div align="center"><a href="http://www.github.com/EngelReyes23"><img src="https://activity-graph.herokuapp.com/graph?username=EngelReyes23&theme=react-dark" alt="GitHub Commits Graph" /></a></div>
+### [Microsoft_365_Scripts](https://github.com/EngelReyes23/Microsoft_365_Scripts)
+
+Legacy PowerShell scripts from 2023 covering earlier Microsoft 365 and Exchange Online administration scenarios. I keep this repository public as historical evidence of my progression into Microsoft 365 automation.
+
+### [MERN Calendar](https://github.com/EngelReyes23/MERN_Calendar_App)
+
+Earlier full-stack development project built with React, Redux, Node.js, Express, MongoDB, JWT authentication, and a separate REST backend: [MERN_Calendar_BackEnd](https://github.com/EngelReyes23/MERN_Calendar_BackEnd).
+
+### [NETRazorCodeFirst](https://github.com/EngelReyes23/NETRazorCodeFirst)
+
+ASP.NET Core Razor Pages project using .NET 8, Entity Framework Core 8, SQL Server, migrations, and a Code First data model.
+
+### [AdonisJS-RestAPI](https://github.com/EngelReyes23/AdonisJS-RestAPI)
+
+REST API project built with AdonisJS, with ESLint, Prettier, Husky, and lint-staged as part of the development workflow.
+
+## Technologies
+
+**Microsoft 365**  
+SharePoint Online · OneDrive for Business · Exchange Online · Microsoft Purview · Microsoft Defender · Planner · Viva Engage
+
+**Automation / Administration**  
+PowerShell · PnP.PowerShell · Zsh
+
+**Development**  
+JavaScript · TypeScript · Node.js · React · Redux · REST APIs · MongoDB · .NET · Entity Framework Core · SQL · HTML · CSS
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/EngelReyes23) · [GitHub](https://github.com/EngelReyes23)
