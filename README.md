@@ -1,57 +1,131 @@
 # Engel Reyes
 
-**Microsoft 365 Technical Support Engineer** specializing in **SharePoint Online** and **OneDrive for Business**, with a background in software development and computer engineering.
+**Microsoft 365 Support Engineer** specializing in **SharePoint Online, OneDrive for Business, Exchange Online, and PowerShell automation**, with a previous background in software development.
 
-I work on Microsoft 365 support scenarios for enterprise administrators across LATAM through a Microsoft support partner. My current focus is SharePoint Online and OneDrive for Business, including troubleshooting, administration, remediation, permissions, versioning, retention-related scenarios, and tenant-level investigation.
+I support Microsoft 365 enterprise administrators across LATAM through a Microsoft support partner, working on technical cases submitted through the Microsoft 365 Admin Center.
 
-My previous Microsoft 365 experience also includes **Exchange Online, Microsoft Purview, Microsoft Defender, Outlook, Planner, and Viva Engage**.
+My current focus is **SharePoint Online (SPO)** and **OneDrive for Business (ODB)**, where I work on troubleshooting, configuration, permissions, sharing, content recovery, versioning, retention-related scenarios, storage, and tenant-level investigations.
 
-I use my development background to build practical administration and troubleshooting tools with **PowerShell, PnP.PowerShell, JavaScript, Node.js, and React**.
+Earlier in my Microsoft 365 career, I focused primarily on **Exchange Online (EXO)** and **Outlook**, with additional experience in **Microsoft Purview, Microsoft Defender, Planner, and Viva Engage**.
+
+Before moving into Microsoft 365 support, I worked extensively with web-development technologies including JavaScript, TypeScript, React, Node.js, REST APIs, and .NET. I now use that development background to build practical Microsoft 365 administration and troubleshooting tools with **PowerShell and PnP.PowerShell**.
 
 ## Current Focus
 
 - SharePoint Online administration and troubleshooting
 - OneDrive for Business administration and troubleshooting
+- Exchange Online troubleshooting and administration
 - Microsoft 365 automation with PowerShell and PnP.PowerShell
-- Safe remediation workflows, reporting, validation, and auditability
-- Building reusable tools for recurring administrative scenarios
+- Permissions, sharing, versioning, retention, and content-recovery scenarios
+- Safe remediation workflows with validation, reporting, and auditability
+- Building reusable tooling for recurring Microsoft 365 support scenarios
+
+## Microsoft 365 Experience
+
+**Primary**
+- SharePoint Online
+- OneDrive for Business
+- Exchange Online
+- PowerShell
+- PnP.PowerShell
+
+**Additional**
+- Microsoft Purview
+- Microsoft Defender
+- Outlook
+- Planner
+- Viva Engage
+- Microsoft Graph
+- Microsoft 365 Copilot
 
 ## Featured Projects
 
 ### [m365-admin-scripts](https://github.com/EngelReyes23/m365-admin-scripts)
 
-Current Microsoft 365 administration and troubleshooting toolkit focused on SharePoint Online and OneDrive for Business. It includes version-history cleanup, legacy user remediation, permission-scope analysis, recycle-bin and Preservation Hold Library workflows, and OneDrive/SharePoint path analysis.
+PowerShell toolkit for Microsoft 365 administration, troubleshooting, and remediation, primarily focused on SharePoint Online and OneDrive for Business.
+
+It includes tooling for:
+
+- Version-history cleanup
+- Legacy user remediation
+- Permission-scope analysis
+- Recycle Bin and Preservation Hold Library cleanup workflows
+- Site storage analysis
+- OneDrive and SharePoint path investigation
+- Tenant inventory and reporting
+
+The project focuses on reusable workflows, validation, safety checks, and clear administrative output.
 
 ### [PokeReact](https://github.com/EngelReyes23/PokeReact)
 
-A React-based Pokédex project originally created during my frontend-development phase and substantially modernized in 2026. It now includes bilingual EN/ES support, responsive mobile behavior, richer Pokémon detail views, Redux Toolkit, React Router, Vite, Tailwind CSS, and Framer Motion.
+React-based Pokédex originally created during my frontend-development phase and substantially modernized in 2026.
+
+Current implementation includes:
+
+- React
+- Redux Toolkit
+- React Router
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Responsive mobile design
+- English and Spanish support
+- Extended Pokémon detail views
 
 ### [Microsoft_365_Scripts](https://github.com/EngelReyes23/Microsoft_365_Scripts)
 
-Legacy PowerShell scripts from 2023 covering earlier Microsoft 365 and Exchange Online administration scenarios. I keep this repository public as historical evidence of my progression into Microsoft 365 automation.
+Earlier Microsoft 365 and Exchange Online PowerShell scripts created in 2023.
+
+I keep this repository public as a record of my progression from individual administrative scripts toward more structured Microsoft 365 automation tooling.
 
 ### [MERN Calendar](https://github.com/EngelReyes23/MERN_Calendar_App)
 
-Earlier full-stack development project built with React, Redux, Node.js, Express, MongoDB, JWT authentication, and a separate REST backend: [MERN_Calendar_BackEnd](https://github.com/EngelReyes23/MERN_Calendar_BackEnd).
+Full-stack calendar application built during my software-development phase using:
+
+- React
+- Redux
+- Node.js
+- Express
+- MongoDB
+- JWT authentication
+- REST APIs
+
+Backend: [MERN_Calendar_BackEnd](https://github.com/EngelReyes23/MERN_Calendar_BackEnd)
 
 ### [NETRazorCodeFirst](https://github.com/EngelReyes23/NETRazorCodeFirst)
 
-ASP.NET Core Razor Pages project using .NET 8, Entity Framework Core 8, SQL Server, migrations, and a Code First data model.
+ASP.NET Core Razor Pages project using **.NET 8, Entity Framework Core 8, SQL Server, migrations, and Code First**.
 
 ### [AdonisJS-RestAPI](https://github.com/EngelReyes23/AdonisJS-RestAPI)
 
-REST API project built with AdonisJS, with ESLint, Prettier, Husky, and lint-staged as part of the development workflow.
+REST API project built with **AdonisJS**, with development tooling including ESLint, Prettier, Husky, and lint-staged.
 
-## Technologies
+## Technical Background
 
-**Microsoft 365**  
-SharePoint Online · OneDrive for Business · Exchange Online · Microsoft Purview · Microsoft Defender · Planner · Viva Engage
+### Microsoft 365
 
-**Automation / Administration**  
-PowerShell · PnP.PowerShell · Zsh
+SharePoint Online · OneDrive for Business · Exchange Online · Outlook · Microsoft Purview · Microsoft Defender · Planner · Viva Engage · Microsoft Graph · Microsoft 365 Copilot
 
-**Development**  
-JavaScript · TypeScript · Node.js · React · Redux · REST APIs · MongoDB · .NET · Entity Framework Core · SQL · HTML · CSS
+### Automation & Administration
+
+PowerShell · PnP.PowerShell · Microsoft 365 administration · Troubleshooting · Remediation · Reporting
+
+### Software Development
+
+JavaScript · TypeScript · Node.js · React · Redux · REST APIs · MongoDB · .NET · Entity Framework Core · SQL · Git · GitHub · HTML · CSS
+
+## Training
+
+My Microsoft 365 training includes specialist and advanced learning paths covering:
+
+- SharePoint Online
+- Exchange Online
+- Outlook
+- Microsoft 365 Security & Compliance
+- Microsoft Graph
+- Microsoft 365 Copilot
+
+My earlier software-development training focused primarily on **JavaScript, TypeScript, React, Git/GitHub, NPM, and modern frontend development**.
 
 ## Links
 
